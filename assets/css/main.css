@@ -2626,7 +2626,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #00d4ff;
+				background-color: #b7eadc;
 			}
 
 			input[type="submit"].primary:active,
@@ -2706,7 +2706,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: rgb(2,0,36);
-		background: linear-gradient(70deg, rgba(47,133,136,1) 0%, rgba(0,212,255,1) 80%);
+		background: linear-gradient(59deg, rgba(2,0,36,1) 0%, rgba(47,133,136,1) 50%, rgba(255,255,255,1) 100%);
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2795,7 +2795,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #b7eadc;
 					display: block;
 					padding: 0;
 				}
@@ -3082,7 +3082,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #64a2d0;
+						background: #2F8588;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
